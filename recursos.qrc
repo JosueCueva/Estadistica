@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>Recursos/disquete.png</file>
+        <file>Recursos/salida.png</file>
+    </qresource>
+</RCC>
